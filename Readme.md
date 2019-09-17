@@ -20,14 +20,15 @@
 
 ### Automated
 - Geo location
+- Peer-to-peer network for multilateration of devices to dynamically cover any populated area
 - Device signal profile
 
-### User Genereated
-- Pictures of the sky
-- Waze-like confirmation of weather conditions (opt-in notifications ask you to confirm if it's raining or not
+### User Generated
+- Photos of the sky, classified on a scale from 0 (super clear blue skies) to 10 (stormy high-intensity rain)
+- Waze-like confirmation of weather conditions (opt-in notifications ask you to confirm if it's raining or not)
 
 ## Open Forecasting Model
-- IFS
+- IIFS
 
 ## Machine Learning Platform
 - TensorFlow
